@@ -1,0 +1,2 @@
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/Test .netProject/bin/Debug/net5.0/linux-x64/publish/TestProject.pdb
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/Test .netProject/bin/Debug/net5.0/linux-x64/publish/TestProject

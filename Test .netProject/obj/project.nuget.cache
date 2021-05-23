@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3q2Vqm/YCF0triQ1+pD09lE6VgTjo4tidCxXNVWF6AzQBLgzZPjVrvLtlLFtRRi/QD59EhEwJQYseBW4DR5XQ==",
+  "success": true,
+  "projectFilePath": "/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/Test .netProject/TestProject.csproj",
+  "expectedPackageFiles": [
+    "/home/vlanh/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/5.0.5/microsoft.netcore.app.runtime.linux-x64.5.0.5.nupkg.sha512",
+    "/home/vlanh/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/5.0.5/microsoft.aspnetcore.app.runtime.linux-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

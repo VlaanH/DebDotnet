@@ -1,0 +1,8 @@
+Package: TestProject
+Architecture: all
+Description: This is a Test Project
+Maintainer: TestProject
+Priority: extra
+Section: misc
+Version: 1.0.1
+

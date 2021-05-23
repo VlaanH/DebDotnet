@@ -1,0 +1,16 @@
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/bin/Debug/net5.0/TestProject
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/bin/Debug/net5.0/TestProject.deps.json
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/bin/Debug/net5.0/TestProject.runtimeconfig.json
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/bin/Debug/net5.0/TestProject.runtimeconfig.dev.json
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/bin/Debug/net5.0/TestProject.dll
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/bin/Debug/net5.0/ref/TestProject.dll
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/bin/Debug/net5.0/TestProject.pdb
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/obj/Debug/net5.0/TestProject.csprojAssemblyReference.cache
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/obj/Debug/net5.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/obj/Debug/net5.0/TestProject.AssemblyInfoInputs.cache
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/obj/Debug/net5.0/TestProject.AssemblyInfo.cs
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/obj/Debug/net5.0/TestProject.csproj.CoreCompileInputs.cache
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/obj/Debug/net5.0/TestProject.dll
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/obj/Debug/net5.0/ref/TestProject.dll
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/obj/Debug/net5.0/TestProject.pdb
+/home/vlanh/Рабочий стол/DEB AVALONIA/DEB_ALL/TestProject/obj/Debug/net5.0/TestProject.genruntimeconfig.cache
